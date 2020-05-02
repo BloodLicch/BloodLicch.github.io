@@ -1879,7 +1879,7 @@ a {
     }
     
     .posts-item:last-child {
-        margin: o;
+        margin: 0;
     }
     
     .posts-arrows {
